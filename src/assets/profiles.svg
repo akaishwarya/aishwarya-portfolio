@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Cartoon portrait of a girl">
+  <circle cx="200" cy="64" r="42" fill="#8b4a3d"/>
+  <path d="M186 40c8-10 24-10 32 0" stroke="#a55f50" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <ellipse cx="200" cy="196" rx="100" ry="108" fill="#7a3e2c"/>
+  <rect x="176" y="262" width="48" height="56" rx="16" fill="#e9b997"/>
+  <path d="M60 400c0-70 58-104 140-104s140 34 140 104z" fill="#d9a441"/>
+  <path d="M166 298l34 44 34-44c-22 10-46 10-68 0z" fill="#ffffff"/>
+  <ellipse cx="200" cy="192" rx="82" ry="88" fill="#f6d2af"/>
+  <path d="M116 176c-22 50-20 112 8 156 22-18 30-56 26-104z" fill="#7a3e2c"/>
+  <path d="M284 176c22 50 20 112-8 156-22-18-30-56-26-104z" fill="#7a3e2c"/>
+  <path d="M114 186c-4-64 36-96 86-96s90 32 86 96c-18-30-44-46-86-46s-68 16-86 46z" fill="#8b4a3d"/>
+  <circle cx="168" cy="200" r="7" fill="#3a2417"/>
+  <circle cx="232" cy="200" r="7" fill="#3a2417"/>
+  <circle cx="170" cy="197" r="2.2" fill="#ffffff"/>
+  <circle cx="234" cy="197" r="2.2" fill="#ffffff"/>
+  <path d="M184 234q16 14 32 0" stroke="#a85c3b" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="146" cy="226" r="14" fill="#f0a98a" opacity=".55"/>
+  <circle cx="254" cy="226" r="14" fill="#f0a98a" opacity=".55"/>
+</svg>

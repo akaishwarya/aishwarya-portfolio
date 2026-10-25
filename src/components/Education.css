@@ -1,0 +1,39 @@
+.edu__columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.edu__list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.edu__item--cert {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  color: var(--accent);
+}
+
+.edu__degree {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.edu__meta {
+  margin: 4px 0 0;
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 720px) {
+  .edu__columns {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+}
