@@ -99,7 +99,7 @@ export const projects = [
     link: "https://akaishwarya.github.io/GenerateQRCode/",
   },
   {
-    title: "Restoran website",
+    title: "Restaurant Website",
     featured: false,
     description: "A restaurant website built with Bootstrap.",
     stack: "Bootstrap",
